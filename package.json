@@ -1,16 +1,8 @@
 {
-  "name": "lewklanding-clean",
+  "name": "lewklanding-static",
   "version": "1.0.0",
-  "description": "Clean LEWK landing page",
-  "main": "index.html",
-  "scripts": {
-    "build": "echo 'Static site - no build needed'",
-    "start": "echo 'Static site - no start needed'"
-  },
+  "description": "Static LEWK landing page",
   "dependencies": {
     "@neondatabase/serverless": "^0.10.4"
-  },
-  "engines": {
-    "node": ">=18"
   }
 }

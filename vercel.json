@@ -1,13 +1,11 @@
 {
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "installCommand": "",
+  "framework": null,
   "functions": {
     "api/register.js": {
       "runtime": "nodejs18.x"
     }
-  },
-  "rewrites": [
-    {
-      "source": "/api/register",
-      "destination": "/api/register.js"
-    }
-  ]
+  }
 }
