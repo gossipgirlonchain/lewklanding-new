@@ -1,11 +1,13 @@
 {
-  "buildCommand": "bun run build",
-  "outputDirectory": "build/client",
-  "installCommand": "bun install",
-  "framework": null,
   "functions": {
-    "build/server/index.js": {
+    "api/register.js": {
       "runtime": "nodejs18.x"
     }
-  }
+  },
+  "rewrites": [
+    {
+      "source": "/api/register",
+      "destination": "/api/register.js"
+    }
+  ]
 }
