@@ -1,7 +1,6 @@
 {
-  "name": "lewklanding-static",
+  "name": "lewklanding-api",
   "version": "1.0.0",
-  "description": "Static LEWK landing page",
   "dependencies": {
     "@neondatabase/serverless": "^0.10.4"
   }
