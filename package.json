@@ -1,0 +1,7 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "Static HTML site - no build required",
+  "private": true,
+  "scripts": {}
+}

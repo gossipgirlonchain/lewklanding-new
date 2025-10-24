@@ -1,8 +1,0 @@
-node_modules
-.git
-.DS_Store
-*.log
-package.json
-package-lock.json
-yarn.lock
-bun.lockb
